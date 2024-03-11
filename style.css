@@ -1,0 +1,33 @@
+body {
+    font-family: Futura, "Trebuchet MS", Arial, sans-serif; 
+    background-image: (rgb(204, 226, 226));
+    
+    .center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+
+      }
+
+}
+
+h1 {
+    color: navy;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    
+}
+
+.text {
+
+    text-align:justify;
+    padding: 50px;
+    width: 400px;
+    height: 400px;
+    text-align: center;
+
+}
